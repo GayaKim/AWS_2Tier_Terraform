@@ -6,7 +6,7 @@
 <br/><br/>
 
 ## 2️⃣Architecture
-<img src="https://user-images.githubusercontent.com/102592847/214789116-eaad105c-2eeb-4de8-9159-06625aa00c88.png"  width="700"/>
+<img src="https://user-images.githubusercontent.com/102592847/215019163-3713d367-34de-4394-b2e9-71793a0aaa1a.png"  width="700"/>
 <br/><br/>
 
 ## 3️⃣Link
